@@ -43,5 +43,5 @@ pip install -r requirements.txt
 
 ---
 # Полученные графики моделей:
-
+![All graphs](all_models_comparison.png)
 
